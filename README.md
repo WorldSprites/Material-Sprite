@@ -18,8 +18,8 @@ A cool GUI system for TurboWarp based projects.
 
 # Development environment
 To use this, you need:
-<li>[TurboWarp Desktop](https://www.youtube.com/watch?v=mYiBdMnIT88)</li>
-<li>[WorldSprites public libraries](https://www.youtube.com/watch?v=mYiBdMnIT88)</li>
+<li>TurboWarp Desktop (https://desktop.turbowarp.org/)</li>
+<li>WorldSprites public libraries (https://github.com/WorldSprites/WorldSprites-website/tree/main/lib)</li>
 <li>A local web server on localhost:8000 with all the libraries in the root directory</li>
 
 # Playground
