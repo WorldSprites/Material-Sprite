@@ -18,9 +18,9 @@ A cool GUI system for TurboWarp based projects.
 
 # Development environment
 To use this, you need:
-<li>- [![TurboWarp Desktop](https://img.youtube.com/vi/mYiBdMnIT88/0.jpg)](https://www.youtube.com/watch?v=mYiBdMnIT88)</li>
-<li>- [![WorldSprites public libraries](https://img.youtube.com/vi/mYiBdMnIT88/0.jpg)](https://www.youtube.com/watch?v=mYiBdMnIT88)</li>
-<li>- A local web server on localhost:8000 with all the libraries in the root directory</li>
+<li>[![TurboWarp Desktop](https://img.youtube.com/vi/mYiBdMnIT88/0.jpg)](https://www.youtube.com/watch?v=mYiBdMnIT88)</li>
+<li>[![WorldSprites public libraries](https://img.youtube.com/vi/mYiBdMnIT88/0.jpg)](https://www.youtube.com/watch?v=mYiBdMnIT88)</li>
+<li>A local web server on localhost:8000 with all the libraries in the root directory</li>
 
 # Playground
 You can play around with the system in a little playground at https://materialsprite.worldsprites.com .
